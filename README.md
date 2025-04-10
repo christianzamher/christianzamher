@@ -1,7 +1,7 @@
 # Presentation
 About Me
 <h1 align="center">Hi 👋, I'm Christian Zamora Hermida</h1>
-<h3 align="center">A FrontEnd Developer from Argentina</h3>
+<h3 align="center">A FrontEnd / QA Analyst Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianzamher&label=Profile%20views&color=0e75b6&style=flat" alt="christianzamher" /> </p>
 
